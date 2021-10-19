@@ -1,5 +1,5 @@
 # Medicit Healthcare
-# live site link: 
+# live site link: https://healthcare-assignment10-27a7a.web.app/
 
 * You can search here any medicine with name.
 * You can find any treatment with price.
